@@ -7,6 +7,7 @@ I'm Gabriele, a software engineer from Italy 🇮🇹. I am an expert in parsing
 ### Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Understanding and Improving Performance in WordPress](https://inre.me/guide-to-understanding-and-improving-performance-in-wordpress/)
 - [Why Privacy Is the Most Important Concept of Our Time](https://inre.me/why-privacy-is-the-most-important-concept-of-our-time/)
 - [What are Windows Terminal, PowerShell, etc.](https://inre.me/what-are-windows-terminal-powershell-core/)
 <!-- BLOG-POST-LIST:END -->
