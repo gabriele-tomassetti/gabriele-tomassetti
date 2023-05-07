@@ -7,6 +7,7 @@ I'm Gabriele, a software engineer from Italy 🇮🇹. I am an expert in parsing
 ### Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Intel is in trouble?](https://inre.me/why-intel-is-in-trouble/)
 - [I Think That Boycotting The Entire Russian Society Is Bad](https://inre.me/i-think-that-boycotting-the-entire-russian-society-is-bad/)
 - [Guide to Understanding and Improving Performance in WordPress](https://inre.me/guide-to-understanding-and-improving-performance-in-wordpress/)
 - [Why Privacy Is the Most Important Concept of Our Time](https://inre.me/why-privacy-is-the-most-important-concept-of-our-time/)
